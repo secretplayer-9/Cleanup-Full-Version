@@ -240,4 +240,4 @@ This repository serves as the official landing page for CleanUp!. The software i
 **Get the most recent version of CleanUp! today!**
 
 ---
-**Last updated:** 2026-09-29 13:46:39 UTC
+**Last updated:** 2026-09-29 19:07:37 UTC
